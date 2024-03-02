@@ -1,0 +1,16 @@
+.search-form{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    width: 700px;
+}
+
+.search-form span{
+    display: block;
+}
+
+.btn-search{
+    height: 49px;
+    margin-top: 23px;
+    width: 200px;
+}
