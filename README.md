@@ -138,8 +138,19 @@ Follow these steps to run the React application locally:
    ```bash
    npm run dev -- --port 3000
    ```
+   
+
 
 After completing these steps, the React application will be running on `http://localhost:3000` and you can view it in your web browser.
+
+login with username and password
+
+```
+  "username": "ravi",
+  "password": "ravipass",
+```
+
+# screenshot are also added
 
 
 
